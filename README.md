@@ -9,7 +9,7 @@ A very simple and highly particular price estimator for selling and then buying 
 
 The purpose of this project is to provide a custom AI tool that can be used to predict the sale price of own car and the right buying price of one particular car we are interested to purchase, based on a set of custom defined characteristics and a list of similar cars data that are currently under sale.
 
-The idea of the project comes from "Building AI course project" by Helsinki University.
+The idea of the project comes from "Building AI course project" by University of Helsinki.
 
 ## Background
 
